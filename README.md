@@ -2,7 +2,7 @@
 
 # 2025_01_01_HelloMegaMaskGitKeyToolsRamDB
 
-A toolbox designed to run on a Raspberry Pi that provides database access and functionality using a Git-based index claim.
+A toolbox designed to run on a Raspberry Pi that provides "ram database access" and functionality using a Git-based index claim.
 
 ## Concept
 The idea is simple:  
